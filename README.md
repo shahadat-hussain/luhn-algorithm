@@ -65,3 +65,5 @@ Let’s validate the number **4539 1488 0343 6467**.
 
 - The Luhn algorithm is not cryptographically secure and is only suitable for detecting errors, not for preventing fraud.
 - It cannot detect all types of errors, such as transposition of two adjacent digits.
+  
+####freecodecamp.org
